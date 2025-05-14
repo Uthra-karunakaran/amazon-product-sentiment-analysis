@@ -1,0 +1,19 @@
+# Virtual environment
+amazon-env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore all .safetensors files anywhere in the repo
+*.safetensors
+
+# Ignore model folders
+model_v2/
+model_v3/
+model_v4/
+saved_model/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
