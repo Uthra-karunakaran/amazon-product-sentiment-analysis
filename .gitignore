@@ -17,3 +17,6 @@ saved_model/
 
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
+
+# my env
+amazon/
