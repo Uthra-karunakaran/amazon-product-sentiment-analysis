@@ -4,6 +4,12 @@ A lightweight, interactive web app that performs sentiment analysis on Amazon pr
 
 ---
 
+##  Live Preview
+
+👉 **Preview Sentiment Analysis**: [Demo](https://drive.google.com/file/d/1RBV_tl6UINMv8A8t3jdnyjePR4jFLVTy/view?usp=sharing)  
+
+---
+
 ##  Project Overview
 
 <ul>
